@@ -1,7 +1,7 @@
 # Hi there, I'm Usman Sharif! 👋
 
 ## 🚀 About Me
-I'm a **Front-End Developer**, xurrently working with **React.js**, **Tailwind CSS**, and other modern web technologies to build engaging user experiences.
+I'm a **Front-End Developer**, currently working with **React.js**, **Tailwind CSS**, and other modern web technologies to build engaging user experiences.
 
 ## 💻 Technologies & Skills
 - **Languages:** HTML, CSS, JavaScript
