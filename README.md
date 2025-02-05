@@ -12,7 +12,7 @@ I'm a **Front-End Developer**, currently working with **React.js**, **Tailwind C
 - Email: usmansharif972@gmail.com
 - Portfolio: https://usharif.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/muhammad-usman-sharif-bbb097209/
-- 
+
 ---
 **Let's build something amazing together! 🚀**
 
